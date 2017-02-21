@@ -1,4 +1,4 @@
-console.log(document.querySelector('.signin'))
+console.log(document.querySelector('.signin'));
 document.querySelector('.signin').addEventListener('click',function(){
 
     //получить данные из формы formData
